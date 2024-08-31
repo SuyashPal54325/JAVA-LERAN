@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class SampleDay1 {
+public class SampleDay2InputAndOutput {
     public static void main(String[] args) {
 
 //        System.out.println("*\n**\n***\n****");
