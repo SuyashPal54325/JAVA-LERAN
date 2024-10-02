@@ -30,13 +30,13 @@ class Student{
 
 
     //    Copy Constructor
-//    Student(Student s2){
-//        this.name=s2.name;
-//        this.age=s2.age;
-//        }
-//    Student(){
-//
-//    }
+    Student(Student s2){
+        this.name=s2.name;
+        this.age=s2.age;
+        }
+    Student(){
+
+    }
 
 
     // UNDERSTANDING OF POLYMORPHISM
@@ -95,7 +95,7 @@ public class SampleDay24ObjectAndClass {
 //        s1.age=24;
 //
 //        Student s2=new Student(s1);
-//        s2.printInfo();
+//        s2.printInfo(s1.name, s1.age);
 
 
 
